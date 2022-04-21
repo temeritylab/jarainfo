@@ -189,11 +189,38 @@ videos.add_session('2022-02-28', '2chords',
                    'pure005_detectiongonogo_20220228_2Sounds_159_2Sconfig11.h5',
                    cameraParams)
 
-
 videos.add_session('2022-02-28', '2chords',
                    'pure005_20220223_2Sounds_160_2Sconfig11.mp4',
                    'pure005_detectiongonogo_20220223_2Sounds_160_2Sconfig11.h5',
                    cameraParams)
+
+ videos.add_session('2022-02-09', '2chords',
+                    'pure005_20220209_2Sounds_25_2Sconfig17.mp4',
+                    '',
+                    cameraParams)
+
+ videos.add_session('2022-02-13', '2chords',
+                    'pure005_20220213_2Sounds_22_2Sconfig17.mp4',
+                    '',
+                    cameraParams)
+
+ videos.add_session('2022-02-13', '2chords',
+                    'pure005_20220213_2Sounds_23_2Sconfig17.mp4',
+                    '',
+                    cameraParams)
+
+ videos.add_session('2022-02-24', '2chords',
+                    'pure005_20220224_2Sounds_26_2Sconfig11.mp4',
+                    '',
+                    cameraParams)
+ videos.add_session('2022-02-25', '2chords',
+                    'pure005_20220225_2Sounds_27_2Sconfig11.mp4',
+                    '',
+                    cameraParams)
+ videos.add_session('2022-01-11', '2chords',
+                    'pure005_20220111_2Sounds_24_2Sconfig2.mp4',
+                    '',
+                    cameraParams)
 
 
 
